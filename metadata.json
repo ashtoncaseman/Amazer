@@ -1,0 +1,6 @@
+{
+  "name": "Amazer - Fast, Minimalist, Ad-Free Web Browser",
+  "description": "Ultra-fast minimalist web browser with native EasyList ad and scam popup blocking, master-password-protected credentials manager, session restore, extensions, and cross-device sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
